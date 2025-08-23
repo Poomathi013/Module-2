@@ -30,9 +30,7 @@ b=int(input())
 print(result(a, b))
 ```
 ### OUTPUT
-```
 <img width="1251" height="256" alt="image" src="https://github.com/user-attachments/assets/d76aeb35-39ca-45c3-bcc6-8ca9464c6432" />
-```
 ### RESULT
 ```
 The program successfully checks the relation between two numbers (greater than, equal to, or lesser than) using a lambda function.
